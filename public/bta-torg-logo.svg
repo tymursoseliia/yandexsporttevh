@@ -1,0 +1,28 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 200 180">
+  <defs>
+    <linearGradient id="shieldGrad" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" style="stop-color:#4a6fa5"/>
+      <stop offset="100%" style="stop-color:#2d4a6f"/>
+    </linearGradient>
+  </defs>
+
+  <!-- Shield outline -->
+  <path d="M100 10 L160 30 L160 80 Q160 120 100 150 Q40 120 40 80 L40 30 Z"
+        fill="none" stroke="url(#shieldGrad)" stroke-width="4"/>
+
+  <!-- Inner shield shape -->
+  <path d="M100 20 L150 38 L150 78 Q150 112 100 138 Q50 112 50 78 L50 38 Z"
+        fill="none" stroke="#4a6fa5" stroke-width="2" opacity="0.5"/>
+
+  <!-- БТА text -->
+  <text x="100" y="75" font-family="Arial Black, sans-serif" font-size="28" font-weight="bold"
+        fill="#2d4a6f" text-anchor="middle">БТА</text>
+
+  <!-- TORG text -->
+  <text x="100" y="100" font-family="Arial, sans-serif" font-size="18" font-weight="bold"
+        fill="#4a6fa5" text-anchor="middle">TORG</text>
+
+  <!-- БТА ТОРГ text below -->
+  <text x="100" y="170" font-family="Arial, sans-serif" font-size="22" font-weight="bold"
+        fill="#2d4a6f" text-anchor="middle">БТА ТОРГ</text>
+</svg>

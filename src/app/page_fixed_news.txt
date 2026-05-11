@@ -1,0 +1,7 @@
+
+<a href="https://dzen.ru/news" target="_blank" rel="noopener noreferrer" className="block bg-white rounded-xl border border-gray-200 overflow-hidden hover:shadow-md transition cursor-pointer">
+  <div className="flex gap-4 p-4">
+    ... содержимое новости ...
+  </div>
+</a>
+
