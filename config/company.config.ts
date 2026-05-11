@@ -38,7 +38,7 @@ export const companyConfig = {
 
   // Логотип
   logo: {
-    url: "/logo-light.png?v=3",
+    url: "/sport-tech-logo.jpg",
     alt: "ООО «Спорт Тех»"
   },
 

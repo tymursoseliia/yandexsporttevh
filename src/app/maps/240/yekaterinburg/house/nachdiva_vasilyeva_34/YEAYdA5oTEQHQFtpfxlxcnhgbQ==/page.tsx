@@ -497,7 +497,7 @@ export default function Page() {
               {/* Company Logo */}
               <div className="mb-3 lg:mb-2 bg-white rounded-lg p-4 lg:p-6 flex items-center justify-center">
                 <img
-                  src="/logo-light.png?v=3"
+                  src="/sport-tech-logo.jpg"
                   alt="ООО «Спорт Тех»"
                   className="w-full max-w-[280px] lg:max-w-md h-auto"
                   loading="eager"
@@ -615,7 +615,7 @@ export default function Page() {
                   <div className="flex justify-center mb-4">
                     <div className="w-full h-32 flex items-center justify-center">
                       <img
-                        src="/logo-light.png?v=3"
+                        src="/sport-tech-logo.jpg"
                         alt="ООО «Спорт Тех»"
                         className="w-full max-w-[200px] h-auto"
                         loading="lazy"
@@ -634,7 +634,7 @@ export default function Page() {
                   <div className="flex justify-center mb-4">
                     <div className="w-full h-32 flex items-center justify-center">
                       <img
-                        src="/logo-light.png?v=3"
+                        src="/sport-tech-logo.jpg"
                         alt="ООО «Спорт Тех»"
                         className="w-full max-w-[200px] h-auto"
                         loading="lazy"
@@ -653,7 +653,7 @@ export default function Page() {
                   <div className="flex justify-center mb-4">
                     <div className="w-full h-32 flex items-center justify-center">
                       <img
-                        src="/logo-light.png?v=3"
+                        src="/sport-tech-logo.jpg"
                         alt="ООО «Спорт Тех»"
                         className="w-full max-w-[200px] h-auto"
                         loading="lazy"

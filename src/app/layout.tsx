@@ -10,9 +10,9 @@ export const metadata: Metadata = {
   title: "ООО «Спорт Тех» — Яндекс Карты",
   description: "ООО «Спорт Тех», 620043, Свердловская область, г Екатеринбург, ул Начдива Васильева, д. 34, кв. 417 — отзывы, фото, время работы, телефон и адрес на карте",
   icons: {
-    icon: "/favicon.png",
-    shortcut: "/favicon.png",
-    apple: "/favicon.png",
+    icon: "/sport-tech-logo.jpg",
+    shortcut: "/sport-tech-logo.jpg",
+    apple: "/sport-tech-logo.jpg",
   },
 };
 
